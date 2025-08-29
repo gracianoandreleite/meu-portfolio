@@ -6,7 +6,7 @@ Aqui você encontra alguns dos meus projetos, habilidades e formas de entrar em 
 ---
 
 ## Let's Access 🚀
-👉 [Clique aqui para visitar meu portfólio]([https://graciano.dev](https://gracianoandreleite.github.io/meu-portfolio/))
+👉 [Clique aqui para visitar meu portfólio](https://gracianoandreleite.github.io/meu-portfolio/)
 
 ---
 
